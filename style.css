@@ -1,0 +1,29 @@
+.col-md-3:hover {
+    cursor: pointer;
+}
+
+.heading-text {
+    text-transform: capitalize;
+    text-align: center;
+    margin: 30px;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#buttonSection {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    font-family: 'Lucida Sans',
+        'Lucida Sans Regular',
+        'Lucida Grande',
+        'Lucida Sans Unicode',
+        Geneva,
+        Verdana,
+        sans-serif;
+}
+
+#search {
+    font-weight: bold;
+}
